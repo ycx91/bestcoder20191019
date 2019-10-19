@@ -1,4 +1,7 @@
-Members:
-1 Stamford Yao
-2 Kai Xin
-3 Swee Ying
+#!/bin/bash
+echo 'Hello Team
+#Members:
+#1 Stamford Yao
+#2 Kai Xin
+#3 Swee Ying
+'
